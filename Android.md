@@ -7,11 +7,12 @@ Androidの学習リソースはここに
 - [IntelliJ IDEA](https://www.jetbrains.com/idea/)
 - [Eclipse](https://eclipse.org/)
 
-## References
-
 ### ● Libraries
 
-- [List of Android Libraries](https://github.com/wasabeef/awesome-android-libraries): Android開発で主流のライブラリ一覧が掲載されている
+- [List of Android Libraries](https://github.com/wasabeef/awesome-android-libraries): Androidアプリ開発で主流のライブラリ一覧が掲載されている
+- [Retrofit2](http://square.github.io/retrofit/): Androidアプリ開発でREST通信とPOJO変換を担当
+- [RxAndroid](https://github.com/ReactiveX/RxAndroid): Androidアプリ開発で非同期通信を担当(RetrofitのAdapterと利用)
+- [Gson](https://github.com/google/gson): POJO変換を担当(実際はRetrofitのAdapterで利用)
 
 ### ● Books
 
