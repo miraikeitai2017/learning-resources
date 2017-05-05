@@ -18,6 +18,23 @@ iOSの画面レイアウト設計はXcodeが提供しているInterface Builder�
 初めての方はこちらを参考に、レイアウトを設計してみてください。  
 [初めてiPhoneアプリをデザインするには、どうすればいい？](http://www.atmarkit.co.jp/ait/articles/1602/17/news031.html)
 
+## ライブラリ管理
+iOS開発の依存ライブラリを管理するために、`CocoaPods`や`Carthage`といったパッケージマネージャーが使用されています。
+### CocoaPodsとCarthageの違い
+- [[Swift] CocoaPodsとCarthageの違い / ライブラリ管理](http://qiita.com/nori0620/items/b81ae171f0e82b0c2d8a)
+>CocoaPodsは（デフォルトでは）、自動的にアプリケーション用のXcodeのワークスペースと全ての依存関係を作成及び更新を行います。  
+>Carthageはframeworkのバイナリをxcodebuildを使ってビルドしますが、プロジェクトへの統合まではせず、統合する作業はユーザに任せます。  
+>CocoaPodsのアプローチはユーザにとって使いやすく、一方でCarthage側は柔軟で押し付けがましくないアプローチです。  
+
+CocoaPodsを使うのに比べ、コンパイル時間を短くすることができるため、基本的にはパッケージマネジャーに`Carthage`を使用します。
+(一部Objective-C製のライブラリでCocoaPodsにしか対応していないものがあるので、場合によっては`CocoaPods`を併用します。)
+
+
+### Carthageを使ったライブラリ導入の方法
+- [Carthageを使ってビルド時間を短縮しよう](http://qiita.com/yutat93/items/97fe9bc2bf2e97da7ec1)
+
+### CocoaPods導入手法
+- [【Swift】CocoaPods導入手順](http://qiita.com/ShinokiRyosei/items/3090290cb72434852460)
 
 ## リファレンス
 ### iOS開発
@@ -34,6 +51,9 @@ iOSの画面レイアウト設計はXcodeが提供しているInterface Builder�
 - [逆引きSwift(iOS編)](https://sites.google.com/a/gclue.jp/swift-docs/ni-yinki100-ios)
 - [iOS-10-Sampler](https://github.com/shu223/iOS-10-Sampler)
 
-## AutoLayout
+### AutoLayout
 - [iOSのAuto Layout](http://qiita.com/dearboy15/items/8f55404298954784c8ff)
 - [Auto Layoutガイド](https://developer.apple.com/jp/documentation/UserExperience/Conceptual/AutolayoutPG/)
+
+### Libraries
+- [awesome-swift](https://github.com/matteocrippa/awesome-swift)
