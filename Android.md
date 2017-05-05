@@ -1,7 +1,7 @@
 # Android Application
 Androidの学習リソースはここに
 
-## IDE
+## 🎛 IDE
 
 - [Android Studio](https://developer.android.com/studio/index.html?hl=ja)
 - [IntelliJ IDEA](https://www.jetbrains.com/idea/)
@@ -9,13 +9,26 @@ Androidの学習リソースはここに
 
 # References
 
-## Libraries
+## 📁 Libraries
 
 - [List of Android Libraries](https://github.com/wasabeef/awesome-android-libraries): Android開発で主流のライブラリ一覧が掲載されている
 
-## Books
+## 📚 Books
 
-## Language
+実際にAndroidアプリ開発を勉強した際に使った参考書一覧
+
+- [初めてのAndroid 第4版](http://amzn.asia/11p72rP)
+- [Kotlinスタートブック](http://amzn.asia/17s4GuK)
+
+## 🚩 Language
+
+Androidアプリ開発で利用されるプログラミング言語一覧
+
+### Java
+
+### Gradle
+
+### XML
 
 ### Kotlin
 
