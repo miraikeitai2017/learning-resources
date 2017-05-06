@@ -30,11 +30,13 @@ Adobe社のPhotoshopやIllustratorを活用してアプリデザインを行う�
 XcodeでおなじみのAutoLayoutがGUI上で実装可能な点などの強みもありますが、現時点では`Sketch`や`Adobe XD`を使用した方が無難な気がします。
 [ついにデザインツール「STUDIO」のβ版がリリース！注目機能をまとめて紹介！](https://webdesign-trends.net/entry/2730)
 
-## iOS
+## UI・UXガイドライン
+
+### iOS
 - [ユーザインターフェースのデザインのヒント](https://developer.apple.com/design/tips/jp/)
 - [iOS Human Interface Guidelines](https://developer.apple.com/ios/human-interface-guidelines/overview/design-principles/)
 
-## Android
+### Android
 - [ユーザインタフェースガイド](https://developer.android.com/guide/topics/ui/index.html)
 - [マテリアルデザインガイド](https://developer.android.com/design/index.html)
 
