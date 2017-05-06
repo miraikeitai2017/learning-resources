@@ -16,5 +16,7 @@
 ## Android
 
 ## Server
-### Ruby
+### Ruby on Rails
+- [Ruby on Rails チュートリアル](https://railstutorial.jp/)
+- [Ruby style guide](https://github.com/bbatsov/ruby-style-guide)
 - [Style guides in COOKPAD](https://github.com/cookpad/styleguide/blob/master/ruby.ja.md)
