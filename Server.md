@@ -1,13 +1,15 @@
 # Server
-サーバサイドの学習リソースはここに
 ## Ruby
 ### ● IDE
 - [RubyMine](https://www.jetbrains.com/ruby/)
-### ● Libraries
+### ● Frameworks
 - [Ruby on Rails](https://github.com/rails/rails)
 - [sinatra](https://github.com/sinatra/sinatra)
+
+### ● Libraries
 - [pry(REPL+デバッガ)](https://github.com/pry/pry)
 - [rubocop(静的解析ツール・Ruby style guideに準拠)](https://github.com/bbatsov/rubocop)
+
 ### ● Books
 - [プログラミング言語Ruby](http://amzn.asia/3QGcBJK)
 - [パーフェクトRuby](http://amzn.asia/1HSmrLq)
@@ -18,7 +20,3 @@
 
 ### ● Documents
 - [プログラミング言語 Ruby リファレンスマニュアル](https://docs.ruby-lang.org/ja/)
-- [Ruby on Rails チュートリアル](https://railstutorial.jp/)
-- [Ruby style guide](https://github.com/bbatsov/ruby-style-guide)
-- [Rails style guide](https://github.com/bbatsov/rails-style-guide)
-- [Style guides in COOKPAD](https://github.com/cookpad/styleguide)
