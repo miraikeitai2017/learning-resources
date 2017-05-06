@@ -32,6 +32,7 @@ Androidアプリ開発で利用されるプログラミング言語一覧
 #### XML
 
 - [Android アプリ開発で使える XML の Tools 属性](http://vividcode.hatenablog.com/entry/android-app/tools-attributes)
+- [xmlns:toolsでAndroid Studioのレイアウトエディタを活用する](http://qiita.com/nein37/items/51935c5a691aa8a0d014)
 
 #### Kotlin
 
