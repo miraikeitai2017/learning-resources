@@ -55,5 +55,10 @@ CocoaPodsを使うのに比べ、コンパイル時間を短くすることが�
 - [iOSのAuto Layout](http://qiita.com/dearboy15/items/8f55404298954784c8ff)
 - [Auto Layoutガイド](https://developer.apple.com/jp/documentation/UserExperience/Conceptual/AutolayoutPG/)
 
+### Unit Test
+- [iOS アプリの Unit Test - Swift 編](http://qiita.com/s-harada_i-enter/items/5a8c12b0c456d155ba53#_reference-aa464051adbd73526ffe)
+- [QuickでSwiftコードのUnitテストをしよう！](http://grandbig.github.io/blog/2016/01/16/quick/)
+- [テストの書き方、Quickの使い方](https://github.com/Quick/Quick/blob/master/Documentation/ja/README.md)
+
 ### Libraries
 - [awesome-swift](https://github.com/matteocrippa/awesome-swift)
