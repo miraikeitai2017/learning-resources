@@ -29,12 +29,16 @@ iOS開発の依存ライブラリを管理するために、`CocoaPods`や`Carth
 CocoaPodsを使うのに比べ、コンパイル時間を短くすることができるため、基本的にはパッケージマネジャーに`Carthage`を使用します。
 (一部Objective-C製のライブラリでCocoaPodsにしか対応していないものがあるので、場合によっては`CocoaPods`を併用します。)
 
-
 ### Carthageを使ったライブラリ導入の方法
 - [Carthageを使ってビルド時間を短縮しよう](http://qiita.com/yutat93/items/97fe9bc2bf2e97da7ec1)
 
 ### CocoaPods導入手法
 - [【Swift】CocoaPods導入手順](http://qiita.com/ShinokiRyosei/items/3090290cb72434852460)
+
+## データベース
+スマートフォンアプリはモバイルデータベースのRealmをデータベースに使うことが多いです。  
+SQLiteなどを使用することもありますが、通常のオブジェクトと同じように扱うことができ、アクセスが高速で、タイプセーフな点からRealmを使うことをオススメします。  
+- [Realm](https://realm.io/jp/docs/swift/latest/)
 
 ## リファレンス
 ### iOS開発
