@@ -31,10 +31,12 @@ Androidアプリ開発で利用されるプログラミング言語一覧
 
 #### XML
 
+- [Android アプリ開発で使える XML の Tools 属性](http://vividcode.hatenablog.com/entry/android-app/tools-attributes)
+
 #### Kotlin
 
-- [Kotlin Programming Language](https://kotlinlang.org/): 公式サイト(JetBrains)
-- [Reference - Kotlin Programming Language](https://kotlinlang.org/docs/reference/): 公式リファレンス
-- [Kotlin言語の日本語解説サイト](https://sites.google.com/site/tarokotlin/): たろう氏(日本Kotlinユーザグループ代表)による解説サイト
-- [Kotlinスタートブック](http://amzn.asia/17s4GuK): Kotlin言語の使い方とそれを利用したAndroidアプリ開発方法が書かれている
-- [Android開発を受注したからKotlinをガッツリ使ってみたら最高だった](http://qiita.com/omochimetaru/items/98e015b0b694dd97f323): KotlinをAndroid開発に使った経験感想記事
+- [Kotlin Programming Language](https://kotlinlang.org/)
+- [Reference - Kotlin Programming Language](https://kotlinlang.org/docs/reference/)
+- [Kotlin言語の日本語解説サイト](https://sites.google.com/site/tarokotlin/)
+- [Kotlinスタートブック](http://amzn.asia/17s4GuK)
+- [Android開発を受注したからKotlinをガッツリ使ってみたら最高だった](http://qiita.com/omochimetaru/items/98e015b0b694dd97f323)
