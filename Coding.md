@@ -16,3 +16,5 @@
 ## Android
 
 ## Server
+### Ruby
+- [Style guides in COOKPAD](https://github.com/cookpad/styleguide/blob/master/ruby.ja.md)
