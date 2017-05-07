@@ -1,6 +1,8 @@
 # Android Application
 Androidの学習リソースはここに
 
+- [Androidアプリ開発を独学で学ぶ人への効果的な勉強法](http://qiita.com/Reyurnible/items/5e57e44baeddd2149833)
+
 ### ● IDE
 
 - [Android Studio](https://developer.android.com/studio/index.html?hl=ja)
