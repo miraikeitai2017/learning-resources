@@ -14,6 +14,12 @@
 そのためSwift3に対応している`スマートテック・ベンチャーズ`の規約を併用します。時間があればミライケータイ用の規約を別途作成します。
 
 ## Android
+- [Androidコードディング規約](http://qiita.com/Reyurnible/items/2de397b80391189af8e4)  
+### Java
+- [Google Java Style Guide](https://google.github.io/styleguide/javaguide.html)  
+
+### Kotlin
+- [スマートテック・ベンチャーズ Kotlinコーディング規約](https://github.com/SmartTechVentures/kotlin-style-guide/)
 
 ## Server
 ### Ruby
