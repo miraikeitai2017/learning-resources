@@ -40,6 +40,23 @@ CocoaPodsを使うのに比べ、コンパイル時間を短くすることが�
 SQLiteなどを使用することもありますが、通常のオブジェクトと同じように扱うことができ、アクセスが高速で、タイプセーフな点からRealmを使うことをオススメします。  
 - [Realm](https://realm.io/jp/docs/swift/latest/)
 
+## アーキテクチャ
+Appleが推奨しているMVC(Model-View-Controller)パターンを使用する予定です。
+iOSの入門書の多くで使用しているのもMVCパターンです。  
+[Model-View-Controller - Apple Developer](https://developer.apple.com/library/content/documentation/General/Conceptual/DevPedia-CocoaCore/MVC.html)
+
+ただ、ViewControllerの肥大化や役割依存などの問題から、MVC以外のアーキテクチャもiOS開発で用いられています。  
+下記のようなアーキテクチャパターンも調べておくとよいかもしれません。
+
+- MVVM (Model-View-ViewModel)  
+[MVVMをベースに複雑な振る舞いをしっかり把握できるアプリ開発](http://qiita.com/susieyy/items/2af5321b287b8d2f49f6)
+
+- VIPER (View-Interactor-Presenter-Entity-Router)  
+[iOS Project Architecture : Using VIPER [和訳]](http://qiita.com/YKEI_mrn/items/67735d8ebc9a83fffd29)
+
+- Clean Architecture  
+[まだMVC,MVP,MVVMで消耗してるの？ iOS Clean Architectureについて](http://qiita.com/koutalou/items/07a4f9cf51a2d13e4cdc)
+
 ## リファレンス
 ### iOS開発
 - [Start Developing iOS Apps (Swift)](https://developer.apple.com/library/content/referencelibrary/GettingStarted/DevelopiOSAppsSwift/BuildABasicUI.html#//apple_ref/doc/uid/TP40015214-CH5-SW1)
