@@ -7,7 +7,6 @@ Androidの学習リソースはここに
 
 - [Android Studio](https://developer.android.com/studio/index.html?hl=ja)
 - [IntelliJ IDEA](https://www.jetbrains.com/idea/)
-- [Eclipse](https://eclipse.org/)
 
 ### ● Libraries
 
