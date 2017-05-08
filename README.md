@@ -3,8 +3,8 @@
 
 ## 目次
 - [コーディング規約](Coding.md)
-- [Git](git.md)
-- [開発フロー](workflow.md)
+- [Git](Git.md)
+- [開発フロー](Workflow.md)
 - [サーバサイド](Server.md)
 - [iOSアプリケーション](iOS.md)
 - [Androidアプリケーション](Android.md)
