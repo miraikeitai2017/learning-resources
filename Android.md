@@ -8,6 +8,7 @@ Androidの学習リソースはここに
 
 - [Android Studio](https://developer.android.com/studio/index.html?hl=ja)
 - [IntelliJ IDEA](https://www.jetbrains.com/idea/)
+- ~~Eclipse~~: [サポート終了](https://android-developers.googleblog.com/2016/11/support-ended-for-eclipse-android.html)
 
 ### ● Libraries
 
