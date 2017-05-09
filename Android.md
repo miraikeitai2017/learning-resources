@@ -22,6 +22,11 @@ Androidの学習リソースはここに
 - [初めてのAndroid 第4版](http://amzn.asia/11p72rP)
 - [Kotlinスタートブック](http://amzn.asia/17s4GuK)
 
+### ● Lint
+
+- [Android Lintを覚えてベテラン開発者に追いつこう #ndsmeetup](https://www.slideshare.net/Nkzn/android-lint-57672113)
+- [AndroidLint #DroidKaigi](https://www.slideshare.net/Nkzn/androidlint-droidkaigi)
+
 ### ● Language
 
 Androidアプリ開発で利用されるプログラミング言語一覧
