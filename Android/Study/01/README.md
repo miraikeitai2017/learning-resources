@@ -8,6 +8,8 @@ GitHubを活用しながらたくさんアプリを作りましょう！
 
 1. [AndroidStudio](https://developer.android.com/studio/index.html?hl=ja)のインストール
 1. [GitKraken](https://www.gitkraken.com/)のインストール
+1. GitHubアカウントの作成
+1. (Android端末の用意)
 
 ## アジェンダ
 
