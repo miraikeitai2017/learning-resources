@@ -19,3 +19,5 @@
 ## 言語
 
 - [Ruby](./Ruby.md)
+- [Python](./Python.md)
+- [Go](./Go.md)
