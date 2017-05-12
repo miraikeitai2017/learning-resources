@@ -15,11 +15,11 @@ GitHubを活用しながらたくさんアプリを作りましょう！
 
 ## アジェンダ
 
-目標①：AndroidStudioからアプリを実行する
-目標②：AndroidプロジェクトリポジトリをGitHubに作る
-目標③：GitKrakenからプロジェクトを管理する
-目標④：GitKrakenで他人のプロジェクトを管理する
-目標⑤：learning-resourcesを編集する
+1. AndroidStudioからアプリを実行する
+1. AndroidプロジェクトリポジトリをGitHubに作る
+1. GitKrakenからプロジェクトを管理する
+1. GitKrakenで他人のプロジェクトを管理する
+1. learning-resourcesを編集する
 
 ## AndroidStudioからアプリを実行する
 
@@ -36,7 +36,11 @@ GitHubを活用しながらたくさんアプリを作りましょう！
 
 ## AndroidプロジェクトリポジトリをGitHubに作る
 
-1. 
+## GitKrakenからプロジェクトを管理する
+
+## GitKrakenで他人のプロジェクトを管理する
+
+## learning-resourcesを編集する
 
 ### GitHub関連
 
