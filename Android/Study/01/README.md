@@ -25,9 +25,14 @@ GitHubを活用しながらたくさんアプリを作りましょう！
 
 1. AndroidStudioを起動してプロジェクトを作成
     - API Level とは何か
+    - Activity とは何か
+    - Androidアプリ開発での命名規則について
 1. アプリをエミュレーターで起動
+    - エミュレータのダウンロードに時間がかかるかも
+    - 開発時にデバイスのターゲットを決めよう
 1. アプリを実機で起動
     - 参考：[Android で実機テストをするための端末準備](http://qiita.com/Masahiro_Saito/items/4837b0adbb75a3db98d0)
+    - 実機でしか試せない機能がある
 
 ## AndroidプロジェクトリポジトリをGitHubに作る
 
