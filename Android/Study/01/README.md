@@ -33,6 +33,7 @@ GitHubを活用しながらたくさんアプリを作りましょう！
 1. アプリを実機で起動
     - 参考：[Android で実機テストをするための端末準備](http://qiita.com/Masahiro_Saito/items/4837b0adbb75a3db98d0)
     - 実機でしか試せない機能がある
+    - 実機がない人の対応を考える
 
 ## AndroidプロジェクトリポジトリをGitHubに作る
 
