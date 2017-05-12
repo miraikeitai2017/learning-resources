@@ -37,7 +37,14 @@ GitHubを活用しながらたくさんアプリを作りましょう！
 
 ## AndroidプロジェクトリポジトリをGitHubに作る
 
+1. GitHubでリポジトリを作成
+    - AndroidStudioから直接作成できるが設定なしではおすすめしない
+
 ## GitKrakenからプロジェクトを管理する
+
+1. ローカルのプロジェクトをGitKrakenでオープン
+1. GitKrakenでリモートを追加する
+1. READMEを編集してプッシュする
 
 ## GitKrakenで他人のプロジェクトを管理する
 
