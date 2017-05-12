@@ -8,8 +8,8 @@ GitHubを活用しながらたくさんアプリを作りましょう！
 
 ## 事前準備
 
-1. [AndroidStudio](https://developer.android.com/studio/index.html?hl=ja)のインストール
-1. [GitKraken](https://www.gitkraken.com/)のインストール
+1. [AndroidStudio](https://developer.android.com/studio/index.html?hl=ja) のインストール
+1. [GitKraken](https://www.gitkraken.com/) のインストール
 1. GitHubアカウントの作成
 1. (Android端末の用意)
 
@@ -24,15 +24,15 @@ GitHubを活用しながらたくさんアプリを作りましょう！
 ## AndroidStudioからアプリを実行する
 
 1. AndroidStudioを起動してプロジェクトを作成する
-    - プロジェクトをどこに作ったか確認しておく
+    - プロジェクトをどこに作ったか確認しておく
     - API Level とは何か
     - Activity とは何か
     - Androidアプリ開発での命名規則がある
 1. アプリをエミュレーターで起動する
-    - エミュレータのダウンロードに時間がかかるかも
+    - エミュレータのダウンロードに時間がかかるかも
     - 開発時にデバイスのターゲットを決めよう
 1. アプリを実機で起動する
-    - 参考：[Android で実機テストをするための端末準備](http://qiita.com/Masahiro_Saito/items/4837b0adbb75a3db98d0)
+    - 参考：[Android で実機テストをするための端末準備](http://qiita.com/Masahiro_Saito/items/4837b0adbb75a3db98d0)
     - 実機でしか試せない機能がある
     - 実機がない人の対応を考える
 
@@ -41,7 +41,7 @@ GitHubを活用しながらたくさんアプリを作りましょう！
 ## AndroidプロジェクトリポジトリをGitHubに作る
 
 1. GitHubでリポジトリを作成する
-    - AndroidStudioから直接作成できるが設定なしではおすすめしない
+    - AndroidStudioから直接作成できるが設定なしではおすすめしない
 
 ## GitKrakenからプロジェクトを管理する
 
