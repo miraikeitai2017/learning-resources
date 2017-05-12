@@ -4,6 +4,8 @@
 そのため、合宿までにアプリをどれだけ開発できたがそのまま実力になります。</br>
 GitHubを活用しながらたくさんアプリを作りましょう！
 
+第1回 勉強会 目的：1人でAndroidアプリ開発をするための準備をする
+
 ## 事前準備
 
 1. [AndroidStudio](https://developer.android.com/studio/index.html?hl=ja)のインストール
@@ -13,14 +15,23 @@ GitHubを活用しながらたくさんアプリを作りましょう！
 
 ## アジェンダ
 
-目的：1人でAndroidアプリ開発をするための準備をする
+目標①：AndroidStudioからアプリを実行する
+目標②：AndroidプロジェクトリポジトリをGitHubに作る
+目標③：GitKrakenからプロジェクトを管理する
+目標④：GitKrakenで他人のプロジェクトを管理する
+目標⑤：learning-resourcesを編集する
 
-### Android関連
+## AndroidStudioからアプリを実行する
 
-1. AndroidStudioを使ってプロジェクトを作成
-1. アプリのエミュレーター起動テスト
-1. アプリの実機起動テスト
-    - [Android で実機テストをするための端末準備](http://qiita.com/Masahiro_Saito/items/4837b0adbb75a3db98d0)
+1. AndroidStudioを起動してプロジェクトを作成
+    - API Level とは何か
+1. アプリをエミュレーターで起動
+1. アプリを実機で起動
+    - 参考：[Android で実機テストをするための端末準備](http://qiita.com/Masahiro_Saito/items/4837b0adbb75a3db98d0)
+
+## AndroidプロジェクトリポジトリをGitHubに作る
+
+1. 
 
 ### GitHub関連
 
