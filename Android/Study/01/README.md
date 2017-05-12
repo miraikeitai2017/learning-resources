@@ -24,10 +24,10 @@ GitHubを活用しながらたくさんアプリを作りましょう！
 ## AndroidStudioからアプリを実行する
 
 1. AndroidStudioを起動してプロジェクトを作成
-    - API Level とは何か
+    - API Level とは何か
 1. アプリをエミュレーターで起動
 1. アプリを実機で起動
-    - 参考：[Android で実機テストをするための端末準備](http://qiita.com/Masahiro_Saito/items/4837b0adbb75a3db98d0)
+    - 参考：[Android で実機テストをするための端末準備](http://qiita.com/Masahiro_Saito/items/4837b0adbb75a3db98d0)
 
 ## AndroidプロジェクトリポジトリをGitHubに作る
 
