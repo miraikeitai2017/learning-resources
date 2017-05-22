@@ -1,4 +1,5 @@
 # Android Application
+
 Androidの学習リソースはここに
 
 - [Androidアプリ開発を独学で学ぶ人への効果的な勉強法](http://qiita.com/Reyurnible/items/5e57e44baeddd2149833)
@@ -21,8 +22,14 @@ Androidの学習リソースはここに
 
 実際にAndroidアプリ開発を勉強した際に使った参考書一覧
 
+- [はじめてのAndroidプログラミング 改訂版](http://amzn.asia/e2mdTyP)
 - [初めてのAndroid 第4版](http://amzn.asia/11p72rP)
 - [Kotlinスタートブック](http://amzn.asia/17s4GuK)
+
+### ● Layout
+
+- [Androidの新しいLayout、ConstraintLayoutことはじめ](http://qiita.com/tomoima525/items/0584be581a0d3a4db8c5)
+- [xmlns:toolsでAndroid Studioのレイアウトエディタを活用する](http://qiita.com/nein37/items/51935c5a691aa8a0d014)
 
 ### ● Lint
 
@@ -35,12 +42,14 @@ Androidアプリ開発で利用されるプログラミング言語一覧
 
 #### Java
 
+- [スッキリわかるJava入門 第2版 (スッキリシリーズ) ](http://amzn.asia/bH5m9p2)
+- [スッキリわかる Java入門 実践編 第2版 (スッキリシリーズ)](http://amzn.asia/hndsG4v)
+
 #### Gradle
 
 #### XML
 
 - [Android アプリ開発で使える XML の Tools 属性](http://vividcode.hatenablog.com/entry/android-app/tools-attributes)
-- [xmlns:toolsでAndroid Studioのレイアウトエディタを活用する](http://qiita.com/nein37/items/51935c5a691aa8a0d014)
 
 #### Kotlin
 
