@@ -21,6 +21,7 @@
 - [サルでもわかるGit入門](http://www.backlog.jp/git-guide/intro/intro1_1.html)
 - [こわくないGit](https://www.slideshare.net/kotas/git-15276118?qid=ad0390a6-d824-4103-a3d8-b30a49cccbb1)
 - [いつやるの？Git入門](https://www.slideshare.net/matsukaz/git-28304397?ref=http://www.north-geek.com/entry/git)
+- [git-it-electron 実践入門 (前編)](http://ikenji.tech/git/72/)
 
 **ゲーム感覚で勉強できるサイト**
 - [LearnGitBranching](http://k.swd.cc/learnGitBranching-ja/)
