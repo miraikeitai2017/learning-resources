@@ -58,3 +58,9 @@ Androidアプリ開発で利用されるプログラミング言語一覧
 - [Kotlin言語の日本語解説サイト](https://sites.google.com/site/tarokotlin/)
 - [Kotlinスタートブック](http://amzn.asia/17s4GuK)
 - [Android開発を受注したからKotlinをガッツリ使ってみたら最高だった](http://qiita.com/omochimetaru/items/98e015b0b694dd97f323)
+
+### ● Help
+
+#### Windowsでエミュレーターが起動しない場合
+
+- [Android Virtual Deviceが起動しない場合の対策](http://qiita.com/Dixhom/items/756d481352eff6ebf823)
