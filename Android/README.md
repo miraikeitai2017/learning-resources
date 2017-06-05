@@ -64,3 +64,7 @@ Androidアプリ開発で利用されるプログラミング言語一覧
 #### Windowsでエミュレーターが起動しない場合
 
 - [Android Virtual Deviceが起動しない場合の対策](http://qiita.com/Dixhom/items/756d481352eff6ebf823)
+
+#### Android端末を開発者モードにする方法
+
+- [Android で実機テストをするための端末準備](http://qiita.com/Masahiro_Saito/items/4837b0adbb75a3db98d0)
