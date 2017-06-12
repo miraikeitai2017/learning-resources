@@ -5,6 +5,19 @@ Androidの学習リソースはここに
 - [Androidアプリ開発を独学で学ぶ人への効果的な勉強法](http://qiita.com/Reyurnible/items/5e57e44baeddd2149833)
 - [TECHBOOSTER](https://techbooster.org/): AndroidとWeb関連の同人書籍や情報を掲載
 
+---
+
+## 学習リソース
+
+- [Androidアプリ開発入門](http://androidguide.nomaki.jp/)
+- [Androidアプリ開発入門 (全10回)](http://dotinstall.com/lessons/basic_android_v2)
+- [はじめる前に知っておきたいAndroidアプリ開発のポイント](https://www.slideshare.net/shinobuokano7/android-54556612?ref=https://mayonez.jp/topic/1539)
+- [Androidアプリのしくみ](https://speakerdeck.com/nekoruri/androidapurifalsesikumi)
+- [Androidアプリケーション開発入門](https://www.slideshare.net/OESF_Education/android-32110639)
+- [2015年度研究室プレ卒研用Android講座1](https://www.slideshare.net/Collonville/android1-43631908)
+
+---
+
 ### ● IDE
 
 - [Android Studio](https://developer.android.com/studio/index.html?hl=ja)
