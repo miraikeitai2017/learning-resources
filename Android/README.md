@@ -10,7 +10,7 @@ Androidの学習リソースはここに
 ## 学習リソース
 
 - ~[Androidアプリ開発入門](http://androidguide.nomaki.jp/)~：Eclipseを使った内容
-- [Androidアプリ開発入門 (全10回)](http://dotinstall.com/lessons/basic_android_v2)：ドットインストール
+- [Androidアプリ開発入門 (全10回)](http://dotinstall.com/lessons/basic_android_v2)：ドットインストール(バージョンが少し古い)
 - [はじめる前に知っておきたいAndroidアプリ開発のポイント](https://www.slideshare.net/shinobuokano7/android-54556612?ref=https://mayonez.jp/topic/1539)
 - [Android Development Training Course Repository](https://github.com/mixi-inc/AndroidTraining)：mixiが作ったAndroidトレーニング
 - [Androidアプリのしくみ](https://speakerdeck.com/nekoruri/androidapurifalsesikumi)
