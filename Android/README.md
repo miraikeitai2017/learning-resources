@@ -28,6 +28,13 @@ Androidの学習リソースはここに
 
 ---
 
+## 非同期API呼び出し
+
+- [Retrofit2使ってみる](http://qiita.com/hymmr/items/cbb1013617cd43b8c7c4#%E3%83%AD%E3%82%B0%E8%A8%AD%E5%AE%9A)
+- [Retrofit ver2.0.0の使い方](http://qiita.com/kiimiiis/items/9e1078c66646c02cc103)
+
+---
+
 ### ● IDE
 
 - [Android Studio](https://developer.android.com/studio/index.html?hl=ja)
