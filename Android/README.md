@@ -25,6 +25,7 @@ Androidの学習リソースはここに
 - [Android で実機テストをするための端末準備](http://qiita.com/Masahiro_Saito/items/4837b0adbb75a3db98d0)
 - [Android Virtual Deviceが起動しない場合の対策](http://qiita.com/Dixhom/items/756d481352eff6ebf823)
 - [エミュレーターがネットに繋がらなくなった場合](http://www.hnyssh.net/?p=793)
+- [Android Studioのgradleビルドを高速化する](http://qiita.com/konifar/items/d0392b6428a47262ab0b)
 
 ---
 
