@@ -22,6 +22,8 @@ Adobe社のPhotoshopやIllustratorを活用してアプリデザインを行う�
 プレビュー表示が可能な[Prott](https://prottapp.com/ja/)やデザインの指示書やスタイルガイドを簡単に作成・共有できる[Zeplin](https://zeplin.io/)と連携できるのが、大きなメリットです。  
 [UIデザインの作成ツール！誰でも分かるSketchの使い方【初心者向け】](https://techacademy.jp/magazine/8576)
 
+  - [Sketch+Zeplinのススメ](https://qiita.com/natmark/private/7069940e13f7f3f160b8)
+
 ### OHAKO
 - [STUDIO](https://ohako.studio/)  
 2017年4月にβ版の公開を開始したばかりの新しいサービスです。
